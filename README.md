@@ -1,11 +1,9 @@
-# Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript
+# Cara-Ecommerce-Website-With-HTML-CSS-JavaScript
 
-[<img alt="Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript" width="100%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/Build%20and%20Deploy%20Ecommerce%20Website%20With%20HTML%20CSS%20JavaScript%20Full%20Responsive%20Ecommerce%20Course%20FREE.PNG?raw=true" />](https://youtu.be/P8YuWEkTeuE/)
+## About this project
+BUILT AND DEPLOY FULL RESPONSIVE ECOMMERCE WEBSITE USING HTML CSS & JAVASCRIPT.A full multipage ecommerce website completely Created from responsive navbar using html CSS JavaScript to responsive footer.
 
-## About this course
-LEARN HOW TO BUILD AND DEPLOY FULL RESPONSIVE ECOMMERCE WEBSITE USING HTML CSS & JAVASCRIPT. This is a free HTML CSS Course. And in this course we will learn how to build and deploy a full multipage ecommerce website completely from scratch step by step. Will Create from responsive navbar using html CSS JavaScript to responsive footer in one video.
-
-## Why This Course?
+## In this project
 - Responsive Ecommerce Website Tutorial Using HTML CSS & JavaScript.
 - Completely For Beginners.
 - Multipage Ecommerce Website Project.
@@ -19,15 +17,11 @@ LEARN HOW TO BUILD AND DEPLOY FULL RESPONSIVE ECOMMERCE WEBSITE USING HTML CSS &
 - And Many More.
 
 ## Sections
-- Part1: Responsive Home Page Design.
-- Part2: Shop Page & Single Product Page.
-- Part3: Blog Page.
-- Part4: About Page.
-- Part5: Contact Us.
-- Part6: Ecommerce Shopping Cart.
+- P1: Responsive Home Page Design.
+- P2: Shop Page & Single Product Page.
+- P3: Blog Page.
+- P4: About Page.
+- P5: Contact Us.
+- P6: Ecommerce Shopping Cart.
 
-Here you will find all the images I'm using to create this responsive ecommerce website. In future image folder can update.
-
-Get the full source code from [here1](https://www.buymeacoffee.com/tech2etc/e/50932).
-
-Get the full source code from [here2](https://ko-fi.com/s/06e4db9e09).
+A total Ecommerce website named Cara using HTML,CSS and Javascript using Genz Trends & terms.
